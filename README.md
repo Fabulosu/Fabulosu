@@ -18,13 +18,16 @@
       <br/>
       <a href="https://twitter.com/donFabulosu" target="blank"><img align="center"
          src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="fabu" height="30"/></a>
       <a href="https://steamcommunity.com/id/donFabulosu" target="blank"><img align="center"
          src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="fabu" height="30"/></a>
       <a href="https://discord.gg/zMzMpd5cvV" target="blank"><img align="center"
          src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="fabu" height="30"/></a>
+      <a href="https://www.youtube.com/c/FabulosuNVm" target="blank"><img align="center"
+         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+         alt="fabu" height="30"/></a>
     </p>
   </samp>
 </div>
