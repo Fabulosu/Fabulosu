@@ -37,14 +37,6 @@
   <summary>🧮 about</summary>
 <div>
 <h2 align="center">🧮 About this Account</h2>
- <p align="center">
-  <a href="github.com/Fabulosu" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/Fabulosu/Fabulosu?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
-     alt="spying counter" /></a>
-  <a href="github.com/Fabulosu" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/Fabulosu/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
-  </p>
   <p align="center">
   <a href="github.com/Fabulosu" target="blank"><img align="center" 
      src="https://badges.pufler.dev/updated/Fabulosu/Fabulosu?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
