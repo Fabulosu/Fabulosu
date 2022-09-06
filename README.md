@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Edward</h1>
 <h4 align="center">a Web Developer<br>and a<br>Discord Bot Developer</h4>
+<img src="https://discord.c99.nl/widget/theme-1/681070492039643249.png"/>
 </div>
 
 <div align="center">
