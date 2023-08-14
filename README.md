@@ -1,5 +1,5 @@
 ### 🔥 About Me
-Hi, my name is Edward, I am 17 years old and I am from Romania. I am currently learning React.Js, Express.Js, Python and Postman.
+Hi, my name is Edward, I am 17 years old and I am from Romania. I am currently learning React.Js, Express.Js and Python.
 
 ### ⚡ Discord Profile
 <img src="https://discord.c99.nl/widget/theme-1/681070492039643249.png"/>
