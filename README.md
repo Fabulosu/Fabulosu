@@ -4,12 +4,6 @@
 <img src="https://discord.c99.nl/widget/theme-1/681070492039643249.png"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Fabulosu">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <details>
   <summary>☎️ contact me</summary>
 <div>
