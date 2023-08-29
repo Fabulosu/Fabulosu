@@ -1,4 +1,4 @@
-### 🔥 About Me
+<div class="center">### 🔥 About Me </div>
 Hi, my name is Edward, I am 17 years old and I am from Romania. I am currently learning React, Redux, Express and D3.js.
 
 ### ⚡ Discord Profile
