@@ -18,11 +18,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center" style="color: white">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left" style="color: white">👩‍💻  About Me</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="center">⚡Discord</h3>
+<h3 align="center" style="color: white"style="color: white">⚡Discord</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center" style="color: white">🛠 Language and tools</h3>
 
 ###
 
@@ -88,7 +88,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center" style="color: white">🔥   My Stats</h3>
 
 ###
 
