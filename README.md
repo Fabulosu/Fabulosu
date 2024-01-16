@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://discord.c99.nl/widget/theme-1/681070492039643249.png">
+</div>
+
 ###
 
 <h3 align="left" style="color: white">👩‍💻  About Me</h3>
