@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Edward from Romania.<br><br>- 📚 I'm currently learning React, Redux and D3.js.<br>- ⚡ In my free time I like to practice and learn new skills.</p>
+<p align="left">I'm Edward from Romania.<br><br>- 📚 I'm currently learning Next.js.<br>- ⚡ In my free time I like to practice and learn new skills.</p>
 
 ###
 
