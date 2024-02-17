@@ -52,6 +52,9 @@ I'm Edward from Romania.<br><br>- 💻 I'm currently working on **CollabIT**.<br
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
+  <img width="12" />
 </div>
 
 ###
