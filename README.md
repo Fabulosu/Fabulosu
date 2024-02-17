@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Edward from Romania.<br><br>- 📚 I'm currently learning Next.js.<br>- ⚡ In my free time I like to practice and learn new skills.</p>
+I'm Edward from Romania.<br><br>- 💻 I'm currently working on **CollabIT**.<br>- ⚡ In my free time I like to practice and learn new skills.
 
 ###
 
@@ -38,10 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
   <img width="12" />
