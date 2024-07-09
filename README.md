@@ -8,7 +8,7 @@
 
 ###
 
-I'm Edward from Romania.<br><br>- 💻 I'm currently working on **CollabIT**.<br>- ⚡ In my free time I like to practice and learn new skills.
+I'm Edward from Romania.<br><br>- 💻 I'm currently looking for work.<br>- ⚡ In my free time I like to practice and learn new skills.
 
 ###
 
@@ -64,10 +64,12 @@ I'm Edward from Romania.<br><br>- 💻 I'm currently working on **CollabIT**.<br
 <h3 align="center" style="color: white">🔥   My Stats</h3>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabulosu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabulosu&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Fabulosu&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabulosu&theme=react&hide_border=true"/>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabulosu&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 ###
