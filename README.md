@@ -8,7 +8,7 @@
 
 ###
 
-I'm Edward from Romania.<br><br>- 💻 I'm currently looking for internships.<br>- ⚡ In my free time I like to practice and learn new skills.
+I'm Edward from Romania.<br><br>- 💻 I'm currently looking for internships.<br>- 💻 I'm currently learning NestJS.<br>- ⚡ In my free time I like to practice and learn new skills.
 
 ###
 
