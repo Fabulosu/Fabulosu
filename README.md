@@ -29,6 +29,10 @@ I'm Edward from Romania.<br><br>- 💻 I'm currently looking for internships.<br
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="lua logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" height="50" alt="prisma logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
