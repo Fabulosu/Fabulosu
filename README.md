@@ -55,6 +55,8 @@ I'm Edward, I'm 18 and I'm from Romania.<br><br>- 💻 I'm currently looking for
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" height="50" alt="svelte logo" />
+  <img width="12" />
 </div>
 
 ###
