@@ -37,6 +37,9 @@ Most of my work focuses on learning-by-building:
 Pinned repositories below highlight the projects I’m most proud of.
 
 ## Contact
-
-- Email: **batalanedward@gmail.com**
-- Open to internships, collaboration, and learning opportunities
+Open to internships, collaboration, and learning opportunities
+<p align="left">
+  <a href="mailto:batalanedward@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Edward's mail address"/>
+  </a>
+</p>
