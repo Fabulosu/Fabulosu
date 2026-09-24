@@ -4,7 +4,7 @@
 
 ## Hi, I'm Edward
 
-I'm a **19-year-old Full-Stack Developer** from **Romania**, focused on building modern, reliable web applications and improving my skills through hands-on, real-world projects.
+I'm a **20-year-old Full-Stack Developer** from **Romania**, focused on building modern, reliable web applications and improving my skills through hands-on, real-world projects.
 
 - Currently looking for **internship opportunities**
 - Interested in production-ready systems and clean architecture
